@@ -6,7 +6,9 @@ Este projeto tem como objetivo realizar uma análise dos dados de uma carteira r
 
 **Vale ressaltar que esta é uma carteira atualizada mensalmente, de acordo com os analistas do BTG, portanto pode ser que nos meses posteriores os ativos da carteira tenham mudado**
 
-Pensando nisso, preparei um arquivo em excel com os ativos referentes a essa análise (data base: setembro de 2023): Carteira_recomendada_btg_set23.xlsx
+Pensando nisso, preparei um arquivo em excel com os ativos referentes a análise em questão: [Arquivo da Carteira](Carteira_recomendada_btg_set23.xlsx)
+
+**Análise e arquivos referentes ao mês de setembro de 2023.**
 
 ## Contexto
 
