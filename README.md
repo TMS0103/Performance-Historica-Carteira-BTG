@@ -2,7 +2,9 @@
 
 ## Descrição do Projeto
 
-Este projeto tem como objetivo realizar uma análise dos dados de uma carteira recomendada de dividendos fornecida pelo Banco BTG Pactual. A análise visa fornecer insights sobre o desempenho histórico da carteira e compará=lo com o Índice Ibovespa. Para isso serão analisados 4 períodos diferentes: 30 dias, 1 ano, 5 anos e, por fim, 10 anos.
+Este projeto tem como objetivo realizar uma análise dos dados de uma carteira recomendada de dividendos fornecida pelo Banco BTG Pactual para o mês de setembro de 2023. A análise visa fornecer insights sobre o desempenho histórico da carteira e compará=lo com o Índice Ibovespa. Para isso serão analisados 4 períodos diferentes: 30 dias, 1 ano, 5 anos e, por fim, 10 anos. 
+
+**Vale ressaltar que esta é uma carteira atualizada mensalmente, de acordo com os analistas do BTG, portanto pode ser que nos meses posteriores os ativos da carteira tenham mudado**
 
 ## Contexto
 
