@@ -6,6 +6,8 @@ Este projeto tem como objetivo realizar uma análise dos dados de uma carteira r
 
 **Vale ressaltar que esta é uma carteira atualizada mensalmente, de acordo com os analistas do BTG, portanto pode ser que nos meses posteriores os ativos da carteira tenham mudado**
 
+Pensando nisso, preparei um arquivo em excel com os ativos referentes a essa análise (data base: setembro de 2023): Carteira_recomendada_btg_set23.xlsx
+
 ## Contexto
 
 O BTG Pactual é uma das principais instituições financeiras do Brasil, conhecida por sua expertise em investimentos e análises de mercado. A carteira recomendada de dividendos do BTG Pactual se dispõe principalmente a gerar valor aos acionista com foco na distribuição de dividendos. Uma características das carteiras de dividendos que é fundamental pontuar é que as empresas selecionadas normalmente se apresentam como maduras e estáveis, muitas vezes de setores tradicionais, que têm histórico de distribuição de dividendos consistentes ao longo do tempo. Essas empresas costumam ter um histórico sólido de geração de fluxo de caixa.
@@ -57,4 +59,4 @@ Este projeto utiliza as seguintes ferramentas e tecnologias:
 
 ## Autor
 
-- Thiago Magalhães de Souza(https://github.com/TMS0103/) - Economista e entusiasta por Análise de Dados
+- Thiago Magalhães de Souza (https://github.com/TMS0103/) - Economista e entusiasta por Análise de Dados
